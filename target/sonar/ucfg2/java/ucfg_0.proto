@@ -1,0 +1,22 @@
+
+Scom.OMS.ProductService.controller.ProductController#getallproduct()Ljava/util/List;d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.java, ,(&"1*ô
+1d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.java-	 -(í
+ê
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.java-	 -(3
+%0-com.OMS.ProductService.service.productService"__id*G*E5
+3com.OMS.ProductService.controller.ProductController"
+
+proService˜•
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.java-	 -($
+%1java.util.List"Ncom.OMS.ProductService.service.productService#getallproducts()Ljava/util/List;*5
+3
+%0-com.OMS.ProductService.service.productService2getallproducts()"~
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.java- -(%
+
+%1java.util.ListB75
+3com.OMS.ProductService.controller.ProductController

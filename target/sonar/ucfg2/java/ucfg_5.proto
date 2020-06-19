@@ -1,0 +1,24 @@
+
+¥com.OMS.ProductService.service.subscribedService#saveSubscription(Lcom/OMS/ProductService/entity/subscribedproduct;)Lcom/OMS/ProductService/entity/subscribedproduct;a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java (*"1*¡
+1a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java	 (õ
+ò
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java	 (D
+%0>com.OMS.ProductService.repository.subscribedproductRespository"__id*A*?2
+0com.OMS.ProductService.service.subscribedService"	
+subRepo¡ž
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java	 (#5
+%1/com.OMS.ProductService.entity.subscribedproduct"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*F
+D
+%0>com.OMS.ProductService.repository.subscribedproductRespository*A
+?
+subscription/com.OMS.ProductService.entity.subscribedproduct2save(Ljava/lang/Object;)"œ
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java ($7
+5
+%1/com.OMS.ProductService.entity.subscribedproduct:?
+subscription/com.OMS.ProductService.entity.subscribedproductB42
+0com.OMS.ProductService.service.subscribedService

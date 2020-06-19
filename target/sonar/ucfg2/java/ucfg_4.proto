@@ -1,0 +1,30 @@
+
+Šcom.OMS.ProductService.service.subscribedService#getSubscriptionById(Ljava/lang/Integer;)Lcom/OMS/ProductService/entity/subscribedproduct;a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java (-"1*Š	
+1a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java	 (õ
+ò
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java	 (D
+%0>com.OMS.ProductService.repository.subscribedproductRespository"__id*A*?2
+0com.OMS.ProductService.service.subscribedService"	
+subRepoéæ
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java	 ( 
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*F
+D
+%0>com.OMS.ProductService.repository.subscribedproductRespository*
+
+subidjava.lang.Integer2findById(Ljava/lang/Object;)ž›
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java	 (-5
+%2/com.OMS.ProductService.entity.subscribedproduct"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%1java.util.Optional*
+""2orElse(Ljava/lang/Object;)"œ
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java (.7
+5
+%2/com.OMS.ProductService.entity.subscribedproduct:
+subidjava.lang.IntegerB42
+0com.OMS.ProductService.service.subscribedService

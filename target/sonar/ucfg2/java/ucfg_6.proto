@@ -1,0 +1,24 @@
+
+jcom.OMS.ProductService.service.subscribedService#getSubscriptions(Ljava/lang/Integer;)Ljava/lang/Iterable;a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java$ (4"1*å
+1a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java	 (õ
+ò
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java	 (D
+%0>com.OMS.ProductService.repository.subscribedproductRespository"__id*A*?2
+0com.OMS.ProductService.service.subscribedService"	
+subRepoƒ€
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java	 ('
+%1java.lang.Iterable"ucom.OMS.ProductService.repository.subscribedproductRespository#findByBuyerid(Ljava/lang/Integer;)Ljava/lang/Iterable;*F
+D
+%0>com.OMS.ProductService.repository.subscribedproductRespository*
+
+buyeridjava.lang.Integer2"findByBuyerid(Ljava/lang/Integer;)"
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/service/subscribedService.java ((
+
+%1java.lang.Iterable:
+buyeridjava.lang.IntegerB42
+0com.OMS.ProductService.service.subscribedService

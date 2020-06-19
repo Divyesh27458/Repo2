@@ -1,0 +1,33 @@
+
+¥com.OMS.ProductService.ProductServiceApplication#restTemplate(Lorg/springframework/boot/web/client/RestTemplateBuilder;)Lorg/springframework/web/client/RestTemplate;a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/ProductServiceApplication.java ($"startingBlock*¬
+startingBlocka
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/ProductServiceApplication.java$ (Aï
+ì
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/ProductServiceApplication.java (
+%1"
+__annotate*/-
++org.springframework.context.annotation.Bean*D
+B
+builder7org.springframework.boot.web.client.RestTemplateBuilderÀ
+½
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/ProductServiceApplication.java9 (@B
+builder7org.springframework.boot.web.client.RestTemplateBuilder"__annotation*
+
+%1*
+1*Ú
+1a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/ProductServiceApplication.java (ÖÓ
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/ProductServiceApplication.java (1
+%0+org.springframework.web.client.RestTemplate"lorg.springframework.boot.web.client.RestTemplateBuilder#build()Lorg/springframework/web/client/RestTemplate;*D
+B
+builder7org.springframework.boot.web.client.RestTemplateBuilder2build()"˜
+a
+WC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/ProductServiceApplication.java (3
+1
+%0+org.springframework.web.client.RestTemplate:B
+builder7org.springframework.boot.web.client.RestTemplateBuilderB42
+0com.OMS.ProductService.ProductServiceApplication

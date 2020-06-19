@@ -1,0 +1,80 @@
+
+çcom.OMS.ProductService.controller.ProductController#updateproduct(Ljava/lang/Integer;Lcom/OMS/ProductService/dto/StockDTO;)Ljava/lang/String;d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaB B("startingBlock*Ì
+startingBlockd
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaB B(oÍ
+Á
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaA A(V
+%4"
+__annotate*64
+2org.springframework.web.bind.annotation.PutMapping*5
+3
+stockcontrol#com.OMS.ProductService.dto.StockDTOŒ
+À
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaBD B(J
+%5"
+__annotate*
+javax.validation.Valid*5
+3
+stockcontrol#com.OMS.ProductService.dto.StockDTOÎ
+Ë
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaBK B(W
+%6"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*5
+3
+stockcontrol#com.OMS.ProductService.dto.StockDTOƒ
+¡
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaBa B(m3
+stockcontrol#com.OMS.ProductService.dto.StockDTO"__annotation*
+
+%4*
+
+%5*
+
+%6*
+1*ÿ
+1d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaD D(Ã
+…
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaD D(
+%0org.slf4j.Logger"__id*C*A5
+3com.OMS.ProductService.controller.ProductController"
+loggerÍÁ
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaD D(R
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*86
+4Creation request for updation of existing product {}*5
+3
+stockcontrol#com.OMS.ProductService.dto.StockDTO2*info(Ljava/lang/String;Ljava/lang/Object;)Ì
+Í
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaF F(3
+%2-com.OMS.ProductService.service.productService"__id*G*E5
+3com.OMS.ProductService.controller.ProductController"
+
+proService√¿
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaF F(0
+
+%3void"vcom.OMS.ProductService.service.productService#updateproduct(Ljava/lang/Integer;Lcom/OMS/ProductService/dto/StockDTO;)V*5
+3
+%2-com.OMS.ProductService.service.productService*
+
+prodidjava.lang.Integer*5
+3
+stockcontrol#com.OMS.ProductService.dto.StockDTO2Gupdateproduct(Ljava/lang/Integer;Lcom/OMS/ProductService/dto/StockDTO;)"{
+d
+ZC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/controller/ProductController.javaG G(
+Pass controller:
+prodidjava.lang.Integer:3
+stockcontrol#com.OMS.ProductService.dto.StockDTOB75
+3com.OMS.ProductService.controller.ProductController

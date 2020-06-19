@@ -1,0 +1,79 @@
+
+›com.OMS.ProductService.dto.subscribedproductDTO#valueOf(Lcom/OMS/ProductService/entity/subscribedproduct;)Lcom/OMS/ProductService/dto/subscribedproductDTO;`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java)% )(,"1*ƒ
+1`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java*. *(HÍÊ
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java*2 *(F5
+%0/com.OMS.ProductService.dto.subscribedproductDTO"/com.OMS.ProductService.dto.subscribedproductDTOß
+Ü
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java*. *(H
+%1"9com.OMS.ProductService.dto.subscribedproductDTO#<init>()V*7
+5
+%0/com.OMS.ProductService.dto.subscribedproductDTOí
+ê
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java* *(IG
+subscribedproductDTO/com.OMS.ProductService.dto.subscribedproductDTO"__id*7
+5
+%0/com.OMS.ProductService.dto.subscribedproductDTO£ 
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java+" +(?
+%2java.lang.Integer"Ncom.OMS.ProductService.entity.subscribedproduct#getProdid()Ljava/lang/Integer;*F
+D
+subscribedproduct/com.OMS.ProductService.entity.subscribedproduct2getProdid()ÈÅ
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java+ +(@
+
+%3void"Ocom.OMS.ProductService.dto.subscribedproductDTO#setProdid(Ljava/lang/Integer;)V*I
+G
+subscribedproductDTO/com.OMS.ProductService.dto.subscribedproductDTO*
+
+%2java.lang.Integer2setProdid(Ljava/lang/Integer;)¡ž
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java,! ,(=
+%4java.lang.Integer"Mcom.OMS.ProductService.entity.subscribedproduct#getSubid()Ljava/lang/Integer;*F
+D
+subscribedproduct/com.OMS.ProductService.entity.subscribedproduct2
+getSubid()ÆÃ
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java, ,(>
+
+%5void"Ncom.OMS.ProductService.dto.subscribedproductDTO#setSubid(Ljava/lang/Integer;)V*I
+G
+subscribedproductDTO/com.OMS.ProductService.dto.subscribedproductDTO*
+
+%4java.lang.Integer2setSubid(Ljava/lang/Integer;)¥¢
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java-# -(A
+%6java.lang.Integer"Ocom.OMS.ProductService.entity.subscribedproduct#getBuyerid()Ljava/lang/Integer;*F
+D
+subscribedproduct/com.OMS.ProductService.entity.subscribedproduct2getBuyerid()ÊÇ
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java- -(B
+
+%7void"Pcom.OMS.ProductService.dto.subscribedproductDTO#setBuyerid(Ljava/lang/Integer;)V*I
+G
+subscribedproductDTO/com.OMS.ProductService.dto.subscribedproductDTO*
+
+%6java.lang.Integer2setBuyerid(Ljava/lang/Integer;)§¤
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java.$ .(C
+%8java.lang.Integer"Pcom.OMS.ProductService.entity.subscribedproduct#getQuantity()Ljava/lang/Integer;*F
+D
+subscribedproduct/com.OMS.ProductService.entity.subscribedproduct2getQuantity()ÌÉ
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java. .(D
+
+%9void"Qcom.OMS.ProductService.dto.subscribedproductDTO#setQuantity(Ljava/lang/Integer;)V*I
+G
+subscribedproductDTO/com.OMS.ProductService.dto.subscribedproductDTO*
+
+%8java.lang.Integer2 setQuantity(Ljava/lang/Integer;)"­
+`
+VC:/Users/DELL/Repo2/src/main/java/com/OMS/ProductService/dto/subscribedproductDTO.java/ /(I
+G
+subscribedproductDTO/com.OMS.ProductService.dto.subscribedproductDTO:D
+subscribedproduct/com.OMS.ProductService.entity.subscribedproductB3"1
+/com.OMS.ProductService.dto.subscribedproductDTO
